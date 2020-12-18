@@ -6,12 +6,6 @@
 
 <p>For learning and training in BOOTSTRAP I decided to use the templates on the W3.CSS Templates as inspiration, they are made in W3.CSS, a framework similar to bootstrap, I developed pages with the greatest possible similarity to the original using the bootstrap.</p>
 
-<p align="center">
-<a href="https://github.com/Andrierlison/fashion-blog-template/blob/master/LICENSE" >License</a> •
-<a href="#author">Author</a>
-</p>
-
-
 <h2>Copy</h2>
 <p>You can feel free to copy the page</p>
 
